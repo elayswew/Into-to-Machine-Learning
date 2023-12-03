@@ -1,6 +1,6 @@
 # Into to Machine Learning (python)
 
-This is a online course held by National Taiwan University
+This is a online training course held by National Taiwan University
 
 
 [NTU Training Website](https://train.csie.ntu.edu.tw/train/)
