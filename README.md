@@ -3,6 +3,7 @@
 This is a online course held by National Taiwan University
 
 NTU Training Website: https://train.csie.ntu.edu.tw/train/
+
 Course Website: https://train.csie.ntu.edu.tw/train/course-detail.php?id=4097
 
 Course Description: 
@@ -15,6 +16,7 @@ Course Description:
 - Introduction to Data Science Applications (including Data and Features, Data Science Workflow application)
 - Machine Learning Theory and Practice
 - Familiarity with various machine learning algorithms (such as Linear Regression, Classification, Logistic Regression, KNN, Decision Tree, Random Forest, Ensemble Method, Dimensionality Reduction, Clustering, etc.) and their practical applications.
+
 
 
 [Unit01](https://github.com/elayswew/IMLP/blob/main/Unit01/Unit01_Crash%20Course%20on%20Python.ipynb) 
